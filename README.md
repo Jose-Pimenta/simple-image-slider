@@ -5,8 +5,6 @@ A simple and customizable image slider built with React and Create React App. Na
 ## Features
 
 - Navigate between slides with previous/next arrows
-- Autoplay slides with configurable interval
-- Pause on hover functionality
 - Responsive design for all screen sizes
 
 ## Technologies
