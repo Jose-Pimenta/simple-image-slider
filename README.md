@@ -6,6 +6,7 @@ A simple and customizable image slider built with React and Create React App. Na
 
 - Navigate between slides with previous/next arrows
 - Responsive design for all screen sizes
+- Responsive design for mobile and desktop
 
 ## Technologies
 
