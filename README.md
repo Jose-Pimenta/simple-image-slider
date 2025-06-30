@@ -19,20 +19,17 @@ A simple and customizable image slider built with React and Create React App. Na
 ```
 simple-image-slider/
 ├── public/
-│   ├── index.html
 │   └── images/
-│       ├── slide1.jpg
-│       ├── slide2.jpg
-│       └── ...
 ├── src/
-│   ├── components/
-│   │   └── ImageSlider/
-│   │       ├── ImageSlider.jsx
-│   │       └── ImageSlider.css
-│   ├── App.jsx
+│   ├── App.test.js
+│   ├── App.js
 │   ├── App.css
+│   ├── ImageSlider.js
 │   ├── index.js
-│   └── index.css
+│   ├── index.css
+│   ├── logo.svg
+│   ├── reportWebVitals.js
+│   └── setupTests.js
 ├── .gitignore
 ├── package.json
 ├── package-lock.json
